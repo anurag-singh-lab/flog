@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>hey</title>
+    <title>fibbl</title>
     <link href="https://anurag-singh-lab.github.io/blog/feed.xml" rel="self" />
     <link href="https://anurag-singh-lab.github.io/blog" />
-    <updated>2022-04-03T07:49:37+05:30</updated>
+    <updated>2022-04-03T07:58:01+05:30</updated>
     <author>
         <name>Anurag</name>
     </author>
@@ -17,19 +17,18 @@
         <link href="https://anurag-singh-lab.github.io/blog/deciphering-joint-term-insurance-vs-two-separate-term-plans.html"/>
         <id>https://anurag-singh-lab.github.io/blog/deciphering-joint-term-insurance-vs-two-separate-term-plans.html</id>
 
-        <updated>2022-04-03T07:49:37+05:30</updated>
-            <summary></summary>
+        <updated>2022-04-03T07:58:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Insurance can be tricky to understand. But that can’t be an excuse to ignore it, for insurance can be a&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://anurag-singh-lab.github.io/blog/media/posts/3/Add-a-subheading.png" sizes="100vw" srcset="https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-xs.png 300w ,https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-sm.png 480w ,https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-md.png 768w ,https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-lg.png 1024w ,https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-xl.png 1360w ,https://anurag-singh-lab.github.io/blog/media/posts/3/responsive/Add-a-subheading-2xl.png 1600w"  alt="Insurance" width="1640" height="924"></figure>
 <div class="zw-paragraph heading1" data-width="601" data-header="1" data-textformat="{&quot;size&quot;:10}">
 <div class="zw-line-div">
-<div class="zw-line-content"><span class="zw-portion" data-text-len="1"><span class="zw-space">   </span></span></div>
-</div>
-</div>
-<div class="zw-paragraph" data-width="601" data-textformat="{&quot;size&quot;:11}">
-<div class="zw-line-div">
-<div class="zw-line-content"><span class="EOP EOP-readonly"> </span></div>
+<div class="zw-line-content align-center"><span class="zw-portion" data-text-len="1"><span class="zw-space">   </span></span></div>
 </div>
 </div>
 <div class="zw-paragraph" data-width="601" data-textformat="{&quot;size&quot;:10}">
