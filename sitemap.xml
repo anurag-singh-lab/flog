@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://anurag-singh-lab.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://anurag-singh-lab.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://anurag-singh-lab.github.io/blog/deciphering-joint-term-insurance-vs-two-separate-term-plans.html</loc>
+<lastmod>2022-04-03T07:46:52+05:30</lastmod>
+<image:image>
+<image:loc>https://anurag-singh-lab.github.io/blog/media/posts/3/Add-a-subheading.png</image:loc>
+<image:title><![CDATA[Insurance]]></image:title>
+</image:image>
+</url>
+</urlset>
