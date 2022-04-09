@@ -3,7 +3,7 @@
     <title>fibbl</title>
     <link href="https://blog.fibbl.in/feed.xml" rel="self" />
     <link href="https://blog.fibbl.in" />
-    <updated>2022-04-08T17:19:10+05:30</updated>
+    <updated>2022-04-09T05:39:42+05:30</updated>
     <author>
         <name>Anurag</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://blog.fibbl.in/are-you-ready-for-an-emergency/"/>
         <id>https://blog.fibbl.in/are-you-ready-for-an-emergency/</id>
+            <category term="Personal Finance"/>
 
-        <updated>2022-04-08T17:19:10+05:30</updated>
+        <updated>2022-04-09T05:39:35+05:30</updated>
             <summary>
                 <![CDATA[
                     How often has life caught us off-guard? Remember all the&hellip;
@@ -51,8 +52,9 @@
         </author>
         <link href="https://blog.fibbl.in/deciphering-joint-term-insurance-vs-two-separate-term-plans/"/>
         <id>https://blog.fibbl.in/deciphering-joint-term-insurance-vs-two-separate-term-plans/</id>
+            <category term="Personal Finance"/>
 
-        <updated>2022-04-07T18:22:34+05:30</updated>
+        <updated>2022-04-09T05:39:42+05:30</updated>
             <summary>
                 <![CDATA[
                     Insurance can be tricky to understand. But that can’t be&hellip;
